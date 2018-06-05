@@ -6,7 +6,7 @@ This is my repository for my Bioinformatics class from UC San Diego in S18.
 
 *Introductory Material: Working With R*
 
-Class 5 - [Basic Data Exploration and Visualization in R](https://github.com/JasonPBennett/bimm143/blob/master/class05/BasicRGraphs.md)
+Class 5 - [Basic Data Exploration and Visualization in R](https://github.com/JasonPBennett/bimm143/blob/master/class05/BasicRGraphs.md) [HTML](https://bioboot.github.io/bimm143-1/class05/BasicRGraphs), [MD](https://github.com/JasonPBennett/bimm143/blob/master/class05/BasicRGraphs.md), [Rmd](https://github.com/JasonPBennett/bimm143/blob/master/class05/BasicRGraphs.Rmd)
 
 Class 6 - [Creating R Functions](https://github.com/JasonPBennett/bimm143/blob/master/class06/IntroToRFunctions.md)
 
